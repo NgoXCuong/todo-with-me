@@ -7,7 +7,7 @@ import NotFound from "./pages/NotFound";
 const App = () => {
   return (
     <>
-      <Toaster />
+      <Toaster richColors />
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<HomePage />} />
