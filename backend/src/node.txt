@@ -1,0 +1,4 @@
+NAME = ngocuongcm2005_db_user
+PASS_MONGOES = tEyHQdZy75LMpwyv
+
+mongodb+srv://ngocuongcm2005_db_user:tEyHQdZy75LMpwyv@todo-with-me.qqkuyec.mongodb.net/?retryWrites=true&w=majority&appName=todo-with-me
